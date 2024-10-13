@@ -4,11 +4,11 @@ export default function Home() {
   return (
     <>
       {/* Below Code Is With Tailwind */}
-      <div className="flex justify-between items-center bg-slate-200">
+      <div className="flex justify-between items-center bg-black">
         <div className="basis-1/2 h-full m-[30px] text-[70px] font-black">
-          <p className="text-sky-800">Hey,</p>
-          <p className="text-cyan-900">My Name is</p> <span className="text-cyan-700">Kashif Ali, </span>
-          <br /> <p className="text-cyan-900">and I am Next JS Developer</p>
+          <p className="text-sky-600">Hey,</p>
+          <p className="text-cyan-700">My Name is</p> <span className="text-yellow-400">Kashif Ali, </span>
+          <br /> <p className="text-cyan-700">and I am Next JS Developer</p>
           <p className="text-lg font-semibold text-teal-600">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
             voluptatibus, atque consequuntur dignissimos cupiditate nemo dolor,
